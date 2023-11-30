@@ -1,0 +1,10 @@
+Accomplishments in this test software:
+-Managed to connect to Supabase Authentication API.
+-Used REST API to connect the database to the front-end.
+-Created a log-in and registration form, along with a password reset form.
+
+Setting up the software:
+1. Clone the repository to your local machine.
+2. Using a command terminal, open the directory where this software is saved.
+3. Run npm install to initialize a node server.
+4. Run npm run dev to launch the node server and access the web application.
